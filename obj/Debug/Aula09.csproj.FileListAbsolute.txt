@@ -1,0 +1,8 @@
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\bin\Debug\Aula09.exe.config
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\bin\Debug\Aula09.exe
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\bin\Debug\Aula09.pdb
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\obj\Debug\Aula09.csproj.AssemblyReference.cache
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\obj\Debug\Aula09.csproj.SuggestedBindingRedirects.cache
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\obj\Debug\Aula09.csproj.CoreCompileInputs.cache
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\obj\Debug\Aula09.exe
+D:\Users\carlos.ebsilva9\source\repos\Aula09\Aula09\obj\Debug\Aula09.pdb
